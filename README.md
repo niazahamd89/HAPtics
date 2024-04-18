@@ -3,7 +3,7 @@
 
 https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video.mp4
 
-<video controls width="600">
+<video width="600" height="240" controls loop="" muted ="" autoplay="">
   <source src="https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
