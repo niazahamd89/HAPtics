@@ -2,10 +2,8 @@
 
 ## HAPtics prediction 
 
-<img src="https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video-ezgif.com-video-to-gif-converter.gif" al="Description of the GIF" width="700" height="500" />
+<img src="https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video-ezgif.com-video-to-gif-converter.gif" al="Description of the GIF" width="1000" height="500" />
 
-
-![My GIF](https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video-ezgif.com-video-to-gif-converter.gif)
 
 ## 360 view of training data preparation
 
