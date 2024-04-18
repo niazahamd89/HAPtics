@@ -1,13 +1,8 @@
 # HAPtics
 
+## HAPtics prediction 
 
-https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video.mp4
-
-<video width="600" height="240" controls loop="" muted ="" autoplay="">
-  <source src="https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![My GIF](https://github.com/niazahamd89/HAPtics/blob/main/figures/output_video-ezgif.com-video-to-gif-converter.gif)
 
 ## 360 view of training data preparation
 
